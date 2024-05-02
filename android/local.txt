@@ -1,0 +1,4 @@
+sdk.dir = C:\Users\zafar\AppData\Local\Android\Sdk
+
+
+org.gradle.java.home = C:\\Program Files\\Microsoft\\jdk-11.0.18.10-hotspot
